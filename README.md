@@ -4,8 +4,8 @@ Following this steps you can build and use the image to create a Hadoop Single N
 
 ## Creating the hadoop image
 
-     $ git clone https://github.com/rancavil/hadoop-single-node-cluster.git
-     $ cd hadoop-single-node-cluster
+     $ git clone https://github.com/lcsp-iscap/hadoop-single-node.git
+     $ cd hadoop-single-node
      $ docker build -t hadoop .
 
 ## Creating the container
